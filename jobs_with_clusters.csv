@@ -1,0 +1,6 @@
+job_title,company_name,skills,cluster
+Data Analyst,ABC Corp,"Python, SQL, Excel, Power BI",2
+Machine Learning Engineer,XYZ Ltd,"Python, TensorFlow, PyTorch, Machine Learning, Deep Learning",0
+Business Analyst,Tech Solutions,"Excel, PowerPoint, Data Analysis, Communication",3
+Software Developer,Innovatech,"Java, Spring Boot, SQL, Git, REST APIs",1
+Data Scientist,DataWiz,"Python, R, Machine Learning, Statistics, SQL",4
